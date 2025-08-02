@@ -1,0 +1,1 @@
+CREATE DATABASE Ethical_Products;
